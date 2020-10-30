@@ -12,7 +12,7 @@ title: jamesnguyen197
 author: Viet Hung
 
 # URL Stuffs
-baseurl: ""
+baseurl: "/blog"
 #url: "https://jamesnguyen197.com" # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 #url: "https://jamesnguyen197.github.io/blog"
 
