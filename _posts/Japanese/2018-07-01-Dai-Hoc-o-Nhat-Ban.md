@@ -4,6 +4,7 @@ title: Đại học ở Nhật Bản
 subtitle: Những hướng đi du học, vào Đại học Nhật Bản
 category: [Japanese]
 comments: false
+tags: [Đại học Nhật, Du học Nhật]
 ---
 
 Hôm trước, có em hỏi mình phương pháp tìm trường đại học ở Nhật Bản:

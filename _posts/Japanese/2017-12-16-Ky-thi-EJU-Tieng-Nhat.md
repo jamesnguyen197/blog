@@ -4,6 +4,7 @@ title: Kỳ thi EJU (Tiếng Nhật)
 subtitle: Kỳ thi quan trọng để thi Đại học Nhật Bản
 category: [Japanese]
 comments: false
+tags: [Đại học Nhật, Du học Nhật]
 ---
 
 Nói đến thi tiếng Nhật, ai cũng nghĩ JLPT rất cần thiết. Để vào được trường mà mình ước muốn, các bạn du học sinh cố gắng phấn đấu lấy được N2, N3. Tuy nhiên, đối với những bạn muốn vào một trường đại học nổi tiếng, hoặc đại học tốt, thì thi JLPT chỉ là một phần. Các bạn vẫn phải thi thêm chứng chỉ EJU, thậm chí phải thi thêm một đợt nữa do trường tổ chức và kèm thêm chứng chỉ tiếng Anh.
