@@ -133,7 +133,7 @@ layout: page
     <div class="blog-tags">
       <span style="font-weight: 700; font-style: italic;">Categories:</span>
       {% for category in post.category %}
-      <a style="color: #00bac7; font-style: italic;" href="{{ '/category' | absolute_url }}#{{- category -}}">{{- category -}}</a>
+      <a style="color: #00bac7; font-style: italic;" href="{{ '/category' | absolute_url }}/{{category | replace: ' ',''}}">{{ category }}</a>
       {% endfor %}
     </div>
 
