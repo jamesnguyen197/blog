@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Category: 
     - Japanese: "/category/Japanese"
-    - Research Tools: "/category/ResearchTools"
+    - Coding: "/category/Coding"
     - Confessions: "/category/Confessions"
 
 # --- Logo --- #

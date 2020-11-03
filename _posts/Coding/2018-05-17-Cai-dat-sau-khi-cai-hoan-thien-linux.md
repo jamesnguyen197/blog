@@ -2,7 +2,7 @@
 layout: post
 title: Cài đặt sau khi cài hoàn thiện Linux
 subtitle: Những tùy chỉnh, ứng dụng hay sử dụng
-category: [Research Tools]
+category: [Coding]
 comments: false
 ---
 
