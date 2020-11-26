@@ -41,13 +41,7 @@ sudo apt-get install <package>
 
 {% highlight javascript linenos %}
 sudo apt-get install npm 
-{% endhighlight %}
-
-{% highlight javascript linenos %}
 sudo apt-get install nodejs 
-{% endhighlight %}
-
-{% highlight javascript linenos %}
 sudo npm install -g browser-sync 
 {% endhighlight %}
 
