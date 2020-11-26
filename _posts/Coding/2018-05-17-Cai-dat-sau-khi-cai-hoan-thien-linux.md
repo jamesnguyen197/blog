@@ -37,6 +37,23 @@ sudo apt-get install <package>
 | curl | git (Github) |
 | unity-tweak-tool	|
 
+**Cài packages môi trường làm website:**
+
+{% highlight javascript linenos %}
+sudo apt-get install npm 
+{% endhighlight %}
+
+{% highlight javascript linenos %}
+sudo apt-get install nodejs 
+{% endhighlight %}
+
+{% highlight javascript linenos %}
+sudo npm install -g browser-sync 
+{% endhighlight %}
+
+{% highlight javascript linenos %}
+browser-sync start --server --directory --files "*"   //Mở trang xem đường dẫn 
+{% endhighlight %}
 
 **Cài skype:**
 
