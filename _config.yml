@@ -24,7 +24,8 @@ navbar-links:
   Category: 
     - Tiếng Nhật: "/category/TiếngNhật"
     - Tech: "/category/Tech"
-    - Other: "/category/Other"
+    - Đi chơi: "/category/ĐiChơi"
+    - Linh tinh: "/category/Other"
 
 # --- Logo --- #
 
