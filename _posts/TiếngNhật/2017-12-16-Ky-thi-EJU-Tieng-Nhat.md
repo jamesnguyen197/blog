@@ -2,7 +2,7 @@
 layout: post
 title: Kỳ thi EJU (Tiếng Nhật)
 subtitle: Kỳ thi quan trọng để thi Đại học Nhật Bản
-category: [Japanese]
+category: [Tiếng Nhật]
 comments: false
 tags: [Đại học Nhật, Du học Nhật]
 ---

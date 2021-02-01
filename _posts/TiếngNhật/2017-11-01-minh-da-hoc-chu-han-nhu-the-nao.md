@@ -2,7 +2,7 @@
 layout: post
 title: Mình đã học chữ Hán như thế nào?
 subtitle: Học chữ Hán khi mới bước chân sang Nhật
-category: [Japanese]
+category: [Tiếng Nhật]
 comments: false
 ---
 

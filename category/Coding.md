@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Coding
-permalink: category/Coding
+title: Tech
+permalink: category/Tech
 ---

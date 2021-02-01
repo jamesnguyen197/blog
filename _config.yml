@@ -22,9 +22,9 @@ site.github.url: "https://jamesnguyen197.github.io/blog"
 navbar-links:
   About Me: "aboutme"
   Category: 
-    - Japanese: "/category/Japanese"
-    - Coding: "/category/Coding"
-    - Confessions: "/category/Confessions"
+    - Tiếng Nhật: "/category/TiếngNhật"
+    - Tech: "/category/Tech"
+    - Other: "/category/Other"
 
 # --- Logo --- #
 

@@ -2,7 +2,7 @@
 layout: post
 title: Đại học ở Nhật Bản
 subtitle: Những hướng đi du học, vào Đại học Nhật Bản
-category: [Japanese]
+category: [Tiếng Nhật]
 comments: false
 tags: [Đại học Nhật, Du học Nhật]
 ---

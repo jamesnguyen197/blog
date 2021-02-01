@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Japanese
-permalink: category/Japanese
+title: Tiếng Nhật
+permalink: category/TiếngNhật
 ---

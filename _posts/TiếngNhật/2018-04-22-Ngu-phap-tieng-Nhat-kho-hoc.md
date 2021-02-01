@@ -2,7 +2,7 @@
 layout: post
 title: Ngữ pháp tiếng Nhật khó học?
 subtitle: Chia sẻ kinh nghiệm cá nhân
-category: [Japanese]
+category: [Tiếng Nhật]
 comments: false
 ---
 
